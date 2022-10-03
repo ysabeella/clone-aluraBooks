@@ -422,6 +422,13 @@ body{
     .cabecalho{
         padding: 0 2em;
     }
+        .lista__footer{
+        border-left: 1px solid black;
+        padding-left: 1em;
+    }
+    .footer{
+        padding: 3em 0;
+    }
 }
 
 @media screen and (min-width: 1728px){
